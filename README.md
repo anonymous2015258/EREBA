@@ -10,10 +10,7 @@ We have already put the trained estimator model weights in the directory. To cre
 python blockdrop_attack.py mode1
 
 ```
-```
-python skipnet_attack.py mode1
 
-```
 ```
 python ddnn_attack.py mode1
 
